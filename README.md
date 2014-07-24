@@ -1,1 +1,1 @@
-An experimental vector processing engine.
+an experimental vector processing engine.
